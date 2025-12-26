@@ -1,0 +1,2 @@
+# LSTK_noJS
+MAIN
