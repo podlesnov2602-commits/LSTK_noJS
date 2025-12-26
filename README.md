@@ -1,2 +1,0 @@
-# LSTK_noJS
-MAIN
